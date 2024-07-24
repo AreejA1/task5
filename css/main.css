@@ -1,0 +1,14 @@
+.team{
+
+    text-align: center;
+   
+}
+
+.team1{
+    float: left;
+    width:33%;
+    background-color:honeydew;
+}
+.clearfix{
+    clear : left;
+}
